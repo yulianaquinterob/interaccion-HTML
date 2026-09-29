@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+
+.rice{
+  cursor: pointer;
+}
+.burger{
+  cursor: pointer;
+}
+#burger-town{
+  cursor: pointer;
+}
+  
